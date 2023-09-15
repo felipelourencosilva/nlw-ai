@@ -1,7 +1,7 @@
 <h1 align="center">Upload.ai</h1>
 
 <h1 align="center">
-    <img alt="Upload.ai" src=".github/Capa.png" />
+    <img alt="Upload.ai" src="./app_photo.png" />
 </h1>
 
 <p align="center">
